@@ -1,0 +1,19 @@
+body{
+    font-family:Verdana;
+    background: url(..//images/produto.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover   
+}
+
+#tabela{
+    width:100%;
+    border:solid 2px;
+    text-align:left;
+    border-collapse:collapse;
+    border-color:#000000;
+}
+
+
+
